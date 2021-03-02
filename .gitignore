@@ -1,0 +1,5 @@
+.vscode/
+obj/*
+main.d
+main.o
+hardware_sim
